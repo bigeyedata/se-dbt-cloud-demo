@@ -1,1 +1,1 @@
-select * from TOOY_DEMO_V2.PROD_REPL.ORDERS
+select * from TOOY_DEMO_V3.PROD_REPL.ORDERS
