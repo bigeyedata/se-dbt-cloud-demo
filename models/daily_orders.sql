@@ -1,0 +1,1 @@
+select * from TOOY_DEMO_V2.PROD_REPL.ORDERS
